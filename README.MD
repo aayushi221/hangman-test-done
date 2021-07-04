@@ -1,4 +1,5 @@
 # HANGMAN GAME
+![hangman-test-done](https://socialify.git.ci/aayushi221/hangman-test-done/image?forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 ## Description
 
 Hangman is a popular word guessing game where the player attempts to build a missing word by guessing one letter at a time. After a certain number of incorrect guesses, the game ends and the player loses.
